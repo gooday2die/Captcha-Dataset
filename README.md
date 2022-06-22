@@ -11,9 +11,9 @@ This example captcha will be divided and classified into 5 different letters.
 |--|--|--|
 |4|![4](https://raw.githubusercontent.com/gooday2die/Captcha-Dataset/main/github/pics/s_1.png)|`/training_data/4`|
 |9|![9](https://raw.githubusercontent.com/gooday2die/Captcha-Dataset/main/github/pics/s_2.png)|`/training_data/9`| 
-|5|![5](https://raw.githubusercontent.com/gooday2die/Captcha-Dataset/main/github/pics/s_1.png)|`/training_data/5`|
-|A|![A](https://raw.githubusercontent.com/gooday2die/Captcha-Dataset/main/github/pics/s_1.png)|`/training_data/A`|
-|S|![S](https://raw.githubusercontent.com/gooday2die/Captcha-Dataset/main/github/pics/s_1.png)|`/training_data/S`|
+|5|![5](https://raw.githubusercontent.com/gooday2die/Captcha-Dataset/main/github/pics/s_3.png)|`/training_data/5`|
+|A|![A](https://raw.githubusercontent.com/gooday2die/Captcha-Dataset/main/github/pics/s_4.png)|`/training_data/A`|
+|S|![S](https://raw.githubusercontent.com/gooday2die/Captcha-Dataset/main/github/pics/s_5.png)|`/training_data/S`|
 
 ## Info
 1. Currently has 200 alphabet letters and numbers.
