@@ -21,9 +21,13 @@ This example captcha will be divided and classified into 5 different letters.
 Some catpchas offer listening sound instead of reading the symbols. in directory `/data/sounds/` there is a `csv` file that was exported by [LabelStudio](https://labelstud.io/).  The `csv` file includes all timelines and labels sorted out so that it can be imported by `pandas` or some other libraries. 
 
 ## Info
-1. Currently has 200 alphabet letters and numbers.
-2. This dataset uses [https://github.com/tzutalin/labelImg](labelImg) to label each images. 
-3. After the labeling process is done, `/tool/split_files.py` is used to split each letter and number images into its directory.
+1. Currently has 1000 alphabet letters and numbers for each sound and images.
+2. This dataset uses [labelImg](https://github.com/tzutalin/labelImg) to label each images. 
+3. This dataset uses [LabelStudio](https://labelstud.io) to label each sounds.
+4. After the labeling process is done, `/tool/split_files.py` is used to split each letter and number images into its directory.
+
+## Projects using this dataset
+- [Anti-Captcha-Sound](https://github.com/gooday2die/Anti-Captcha-Sound) by Gooday2die
 
 ## PRs and Issues
 If you found any mislabeling or incorrect classification, please PR or report issue.
